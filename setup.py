@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="asr-handler",
+    name="ASRhandler",
     packages=find_packages(),
     install_requires=[
         "pydantic==2.6.3",
